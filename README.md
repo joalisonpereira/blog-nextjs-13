@@ -5,7 +5,7 @@
   Dummy blog homepage using NextJS 13 and TailwindCSS
 </p>
 
-# Demo
+## Demo
 
 ![](./docs/print.png)
 
